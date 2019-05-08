@@ -1,0 +1,4 @@
+Hay un antiguo acertijo infantil que pregunta por un animal cuyo nombre contiene todas la vocales sin repeticion.
+La solucion es el murcielago y, en efecto, contiene las cinco vocales como un buen ejemplo de palabra pentavocalica o panvocalica.
+Pero esta no es la unica palabra, existen muchas mas. Como ejemplos se pueden citar:
+abuelito, acuifero, aguerrido, aquenio, etc.
